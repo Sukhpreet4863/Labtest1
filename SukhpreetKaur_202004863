@@ -1,0 +1,48 @@
+<html>
+<head>
+ <title>Sukhpreet's Lab Test 1</title>
+</head>
+
+<h1>About Cars:</h1>
+<style>
+table {
+border: 16px indianred;
+}
+
+th {
+font-size: 60;
+}
+</style>
+
+<table border=10 bgcolor="lightblue">
+<tr>
+<th> Dodge Challenger </th>
+<th> Porsche </th>
+<th> Mercedes </th>
+</tr>
+<tr>
+ <td>img height='300' src='C:/Users/sukhp/Downloads/car1.jpg'/> </td>
+ <td>img height='300' src='C:/Users/sukhp/Downloads/car2.jpg'/> </td>
+ <td>img height='300' src='C:/Users/sukhp/Downloads/car3.jpg'/> </td>
+</tr>
+<tr>
+<td>
+<h4>Apperance:</h4>
+The modern Dodge Challenger is now 12 years old, yet FCA moved nearly 61,000 examples in 2019—or about 13,000 more units than Chevy did of its newer, better-driving sixth-gen Camaro.
+With its retro-inspired design and muscly engine options, the Challenger's success is fueled heavily by nostalgia. But despite its fondly remembered early years and triumphant 2008 revival, things weren't always so good for the storied nameplate. Keep reading for a brief look back at the Challenger's history.
+ <td><h4>Apperance:</h4>
+Porsche has presented the new 911 on snow and ice. After the world premiere at the Los Angeles Auto Show at the end of November 2018, the eighth generation of the sports car icon was presented at the Areit-Alm high above Zell am See in Austria.
+ <td><h4>Apperance:</h4>
+Mercedes-Benz provided a close-up look at a concept version of the EQG back in 2021 — originally announcing that it would be available in 2025 — and Källenius reported that an early prototype he’d tested at Mercedes-Benz’s G-Class testing grounds in Graz, Austria was more than up to snuff. “From now on, going
+ off-road is electric,” he told reporters. Mercedes-Benz also plans to make its fleet of vehicles fully electric by 2030. </td>
+<td>  </td>
+<td>  </td>
+</tr>
+<tr> 
+<td>
+ </td>
+</tr>
+
+</table>
+</body>
+</html>
